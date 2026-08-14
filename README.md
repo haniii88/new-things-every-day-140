@@ -1,4 +1,4 @@
-/* New Things Every Da — Day 140 */
+/* New Things Every Day — Day 140 */
 /* Analyzes code quality metrics and creates a development report */
 
 function dailyLog140() {
